@@ -1,3 +1,5 @@
 tsunami-coffee-project
 
-HTML/CSS Project on Responsiveness and Media Queries
+This is a HTML/CSS Project on Responsiveness and Media Queries
+done for a course. 
+
